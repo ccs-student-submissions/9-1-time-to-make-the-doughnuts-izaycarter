@@ -47,7 +47,7 @@ After completing this assignment, you should be able to:
 
 - [ ] Create an `AdjustRecipe` component that takes a recipe object as a prop. You don't need to start with HTTP requests, you may use static data
 
-![](https://raw.githubusercontent.com/ccs-student-submissions/8.4-time_to_make_the_donuts/master/images/adjusted.png)
+![](https://github.com/ccs-student-submissions/8.4-time_to_make_the_donuts/blob/master/images/adjusted.png)
 
 - [ ] Create a `App`, `RecipesList`, and `RecipeForm` component to add CRUD functionality
 - [ ] Create links to allow the user to switch between the different components - the Bootstrap nav bar is useful for this sort of thing
