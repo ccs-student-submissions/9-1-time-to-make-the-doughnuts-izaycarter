@@ -12,7 +12,7 @@ A local baker has approached Carolina Code School with an application idea, and 
 
 ### Problem
 
-The baker needs to be able to scale recipes up and down depending on the yield or the availability of a certain ingredient. She currently use an extremely complex Excel document, and it's a real pain.
+The baker needs to be able to scale recipes up and down depending on the yield or the availability of a certain ingredient. She currently uses an extremely complex Excel document, and it's a real pain.
 
 ### Who would use this app?
 
@@ -24,7 +24,7 @@ After completing this assignment, you should be able to:
 
 * Demonstrate understanding of React.js Components
 * Demonstrate understanding of Django
-* Demonstrate user auth with Django Rest Framework
+* Demonstrate understanding of Django Rest Framework
 
 ## Details
 
@@ -32,7 +32,7 @@ After completing this assignment, you should be able to:
 
  - [ ] Review the wireframes
  - [ ] Configure an API app with Django Rest Framework
- - [ ] Build user signup and login using Django auth
+ - [ ] Build user signup and login
  - [ ] Build a Batch Maker app with React that will allow users to manage their recipes
 
 ### Requirements
